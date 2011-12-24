@@ -25,7 +25,7 @@ img {-webkit-box-shadow: inset -2px 5px 10px #A50D00;position: absolute;display:
 	position: absolute;float: left;width: 300px;height:60px;margin-top:10px;margin-right:0px;z-index:-3;
 	}
 #wedge{	width: 0;height: 0;top:0px;left:50px;position:absolute;-webkit-animation: img 0.5s ease-in-out;border-bottom: 10px solid #9E1500; border-right: 10px solid transparent;}
-.textcontainer{position:absolute;width:230px;height:50px;margin-top:0px;margin-left:0px;overflow:hidden;float:left;
+.textcontainer{position:absolute;width:300px;height:50px;margin-top:0px;margin-left:0px;overflow:hidden;float:left;
 	}
 #edge{width:8px;right:0px;float:left;position:relative;left:292px;height:100%;border-left:1px solid #2C3E68;
 		background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(163,148,148,1)), color-stop(50%,rgba(64,66,68,1)), color-stop(51%,rgba(10,14,10,1)), color-stop(100%,rgba(10,8,9,1)));
